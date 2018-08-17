@@ -7,7 +7,6 @@
 # # 4. Sair
 # # Observação: Se o usuário informar uma opção inválida, apresente uma
 # mensagem informando isso.
-opcao=0
 
 opcao=0
 while opcao!=4:
